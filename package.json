@@ -1,0 +1,11 @@
+{
+  "name": "frogger-style-game",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "phaser": "^3.55.2"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  }
+}
